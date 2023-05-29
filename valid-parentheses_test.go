@@ -19,6 +19,11 @@ var parenthesesCases = []string{
 func TestIsValid(t *testing.T) {
 	for _, p := range parenthesesCases {
 		fmt.Println(isValid(p), " case:", p)
+	}
+}
+
+func TestIsValid2(t *testing.T) {
+	for _, p := range parenthesesCases {
 		fmt.Println(isValid2(p), " case:", p)
 	}
 }
