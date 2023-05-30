@@ -1,4 +1,4 @@
-package leetcode
+package medium
 
 func ShortestPathBinaryMatrix(grid [][]int) int {
 	n := len(grid)

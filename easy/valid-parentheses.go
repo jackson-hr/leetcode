@@ -1,4 +1,4 @@
-package leetcode
+package easy
 
 var ref = map[byte]byte{
 	'}': '{',

@@ -1,11 +1,12 @@
-package leetcode
+package easy
 
 import (
 	"fmt"
+	"github.com/jackson-hr/leetcode-go/common"
 	"testing"
 )
 
-var searchInsertCase = []SliceAndTarget{
+var searchInsertCase = []common.SliceAndTarget{
 	{Elements: []int{1}, Target: 1},
 	{Elements: []int{1}, Target: 2},
 	{Elements: []int{1}, Target: 0},

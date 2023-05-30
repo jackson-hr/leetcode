@@ -1,4 +1,4 @@
-package leetcode
+package easy
 
 func averageValue(nums []int) int {
 	sum := 0
