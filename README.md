@@ -13,6 +13,7 @@ leetcode implement by go
 - srqtx
 - valid parentheses
 - summary-ranges
+- number-of-unequal-triplets-in-array
 
 
 ## MEDIUM
