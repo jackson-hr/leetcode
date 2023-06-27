@@ -66,3 +66,25 @@ func PrintTree(root *TreeNode) {
 	}
 	fmt.Println(vals)
 }
+
+// ArrayToSingleList array to list
+func ArrayToSingleList(arr []int) *ListNode {
+	var root = &ListNode{}
+	flags := make(map[int]*ListNode, len(arr))
+
+	var cur *ListNode = root
+	for _, v := range arr {
+		idx, exists := flags[v]
+		if exists {
+			cur.Next = idx
+			return root
+		}
+		tmp := &ListNode{
+			Val: v,
+		}
+		flags[v] = tmp
+		cur.Next = tmp
+		cur = cur.Next
+	}
+	return root.Next
+}
