@@ -6,8 +6,8 @@ import (
 )
 
 var case228 = [][]int{
-	[]int{0, 1, 2, 4, 5, 7},
-	[]int{0, 2, 3, 4, 6, 8, 9},
+	{0, 1, 2, 4, 5, 7},
+	{0, 2, 3, 4, 6, 8, 9},
 }
 
 func TestSummaryRanges(t *testing.T) {

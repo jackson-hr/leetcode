@@ -30,10 +30,7 @@ func isValid(s string) bool {
 			}
 		}
 	}
-	if ind != 0 {
-		return false
-	}
-	return true
+	return ind == 0
 }
 
 func isValid2(s string) bool {
@@ -56,8 +53,5 @@ func isValid2(s string) bool {
 			}
 		}
 	}
-	if ind != 0 {
-		return false
-	}
-	return true
+	return ind == 0
 }

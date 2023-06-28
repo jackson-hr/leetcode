@@ -15,6 +15,7 @@ leetcode implement by go
 - summary-ranges
 - number-of-unequal-triplets-in-array
 - linked-list-cycle
+- maximum-units-on-a-truck
 
 
 ## MEDIUM

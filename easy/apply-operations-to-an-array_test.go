@@ -6,8 +6,8 @@ import (
 )
 
 var Cases2640 = [][]int{
-	[]int{1, 2, 2, 1, 1, 0},
-	[]int{0, 1},
+	{1, 2, 2, 1, 1, 0},
+	{0, 1},
 }
 
 func TestApplyOperations(t *testing.T) {
