@@ -12,8 +12,8 @@ type sliceAndUptSlice struct {
 }
 
 var vowelStringsCases = []sliceAndUptSlice{
-	sliceAndUptSlice{Element: []string{"aba", "bcb", "ece", "aa", "e"}, Upt: [][]int{{0, 2}, {1, 4}, {1, 1}}},
-	sliceAndUptSlice{Element: []string{"a", "e", "i"}, Upt: [][]int{{0, 2}, {0, 1}, {2, 2}}},
+	{Element: []string{"aba", "bcb", "ece", "aa", "e"}, Upt: [][]int{{0, 2}, {1, 4}, {1, 1}}},
+	{Element: []string{"a", "e", "i"}, Upt: [][]int{{0, 2}, {0, 1}, {2, 2}}},
 }
 
 func TestVowelStrings(t *testing.T) {

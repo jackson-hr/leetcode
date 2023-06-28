@@ -24,6 +24,7 @@ leetcode implement by go
 - house robber
 - mice and cheese
 - shortest path in binary matrix
+- 3sum
 
 ## HARD
 - longest valid parentheses
