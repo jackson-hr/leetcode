@@ -26,6 +26,7 @@ leetcode implement by go
 - mice and cheese
 - shortest path in binary matrix
 - 3sum
+- sum-in-a-matrix
 
 ## HARD
 - longest valid parentheses
