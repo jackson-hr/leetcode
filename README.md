@@ -16,6 +16,7 @@ leetcode implement by go
 - number-of-unequal-triplets-in-array
 - linked-list-cycle
 - maximum-units-on-a-truck
+- k-items-with-the-maximum-sum
 
 
 ## MEDIUM
