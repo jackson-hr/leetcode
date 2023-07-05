@@ -17,6 +17,7 @@ leetcode implement by go
 - linked-list-cycle
 - maximum-units-on-a-truck
 - k-items-with-the-maximum-sum
+- remove-duplicates-from-sorted-list
 
 
 ## MEDIUM

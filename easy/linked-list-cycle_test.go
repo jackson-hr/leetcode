@@ -22,7 +22,7 @@ var case141 []struct {
 func TestHasCycle(t *testing.T) {
 	for _, v := range case141 {
 		v := v
-		if res := hasCycle(common.ArrayToSingleList(v.Arr)); v.Res != res {
+		if res := hasCycle(common.ArrayToCycleList(v.Arr)); v.Res != res {
 			log.Println("case:", v.Arr, v.Res, res)
 			t.Fail()
 		}
