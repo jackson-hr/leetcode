@@ -29,6 +29,8 @@ leetcode implement by go
 - shortest path in binary matrix
 - 3sum
 - sum-in-a-matrix
+- maximum-split-of-positive-even-integers
+- moving-stones-until-consecutive
 
 ## HARD
 - longest valid parentheses
