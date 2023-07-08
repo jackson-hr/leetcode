@@ -31,6 +31,7 @@ leetcode implement by go
 - sum-in-a-matrix
 - maximum-split-of-positive-even-integers
 - moving-stones-until-consecutive
+- two-sum-ii-input-array-is-sorted
 
 ## HARD
 - longest valid parentheses
