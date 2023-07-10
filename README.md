@@ -31,6 +31,8 @@ leetcode implement by go
 - sum-in-a-matrix
 - maximum-split-of-positive-even-integers
 - moving-stones-until-consecutive
+- container-with-most-water
 
 ## HARD
 - longest valid parentheses
+- trapping-rain-water
