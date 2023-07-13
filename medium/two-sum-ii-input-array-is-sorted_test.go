@@ -19,7 +19,7 @@ func TestTwoSum(t *testing.T) {
 	for _, v := range case167 {
 		if res := twoSum(v.c, v.t); res[0] != v.r[0] || res[1] != v.r[1] {
 			fmt.Println("case:", v.c, " res:", res, " should:", v.r)
-			t.Failed()
+			t.Fail()
 		}
 	}
 }
