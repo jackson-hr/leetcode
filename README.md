@@ -18,6 +18,7 @@ leetcode implement by go
 - maximum-units-on-a-truck
 - k-items-with-the-maximum-sum
 - remove-duplicates-from-sorted-list
+- merge-sorted-array
 
 
 ## MEDIUM
