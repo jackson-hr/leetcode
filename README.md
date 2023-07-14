@@ -19,6 +19,9 @@ leetcode implement by go
 - k-items-with-the-maximum-sum
 - remove-duplicates-from-sorted-list
 - merge-sorted-array
+- reverse-linked-list
+- path-sum
+- missing-number-lcci
 
 
 ## MEDIUM
@@ -35,6 +38,7 @@ leetcode implement by go
 - two-sum-ii-input-array-is-sorted
 - container-with-most-water 
 - minimum-falling-path-sum
+- distribute-coins-in-binary-tree
 
 ## HARD
 - longest valid parentheses
