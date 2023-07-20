@@ -22,6 +22,7 @@ leetcode implement by go
 - reverse-linked-list
 - path-sum
 - missing-number-lcci
+- add-strings
 
 
 ## MEDIUM
@@ -39,6 +40,7 @@ leetcode implement by go
 - container-with-most-water 
 - minimum-falling-path-sum
 - distribute-coins-in-binary-tree
+- maximum-subarray
 
 ## HARD
 - longest valid parentheses
