@@ -26,6 +26,7 @@ leetcode implement by go
 - decode-the-message
 - binary-tree-inorder-traversal
 - same-tree
+- jewels-and-stones
 
 
 ## MEDIUM
