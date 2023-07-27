@@ -27,6 +27,7 @@ leetcode implement by go
 - binary-tree-inorder-traversal
 - same-tree
 - jewels-and-stones
+- delete-greatest-value-in-each-row
 
 
 ## MEDIUM
