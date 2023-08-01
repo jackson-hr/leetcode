@@ -42,10 +42,12 @@ leetcode implement by go
 - maximum-split-of-positive-even-integers
 - moving-stones-until-consecutive
 - two-sum-ii-input-array-is-sorted
-- container-with-most-water 
+- container-with-most-water
 - minimum-falling-path-sum
 - distribute-coins-in-binary-tree
 - maximum-subarray
+- jump-game-ii
+- reorder-list
 
 ## HARD
 - longest valid parentheses
