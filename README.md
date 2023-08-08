@@ -48,6 +48,7 @@ leetcode implement by go
 - maximum-subarray
 - jump-game-ii
 - reorder-list
+- maximum-absolute-sum-of-any-subarray
 
 ## HARD
 - longest valid parentheses
